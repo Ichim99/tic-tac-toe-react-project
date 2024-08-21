@@ -1,8 +1,8 @@
 {
-  "name": "react-essentials-deep-dive-adv",
+  "name": "tic-tac-toe-react-project",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://username.github.io/repository-name",
+  "homepage": "https://Ichim99.github.io/tic-tac-toe-react-project",
   "type": "module",
   "scripts": {
     "dev": "vite",
